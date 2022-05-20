@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech and Finance
 - 🌱 I’m currently a student @ McGill University studying COMP SCI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me brisnel@gmail.com
+- 📫 How to reach me brisneletou@gmail.com
 
 <!---
 Brizzy05/Brizzy05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
