@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Brizzy05
-- 👀 I’m interested in Tech and Finance
+- 👀 I’m interested in Tech s.t AI, Machine Learning and Finance
 - 🌱 I’m currently a student @ McGill University studying COMP SCI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me brisneletou@gmail.com
